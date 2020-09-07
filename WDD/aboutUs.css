@@ -1,0 +1,149 @@
+/* #banner{
+    
+    background-color: blue;
+    width: auto;
+    height: 100px;
+    text-align: center;
+    
+} */
+h1{
+    
+    letter-spacing: 3px;
+    font-size: 3em;
+    
+}
+
+
+html{
+    margin: 0 auto;
+    background-color: #d6e0f0;
+}
+
+body{
+    margin: 0 auto;
+    background-color: ;
+    
+}
+
+/* .divLine{
+    box-shadow: -1px 5px 10px black, 2px 5px 10px black;
+    
+} */
+
+/* .banner{
+    background-color: #1a1a2e;
+    width: 1350px;
+    height: 400px;
+    color: white;
+    display: flex; */
+
+}  
+
+.banner-text{
+    margin: auto;
+}
+
+.aboutUsHeader{
+    color:#d6e0f0;
+	font-size:5em;
+	position:absolute;
+	top:3.5em;
+	left:55%;
+	z-index:1;
+	font-family: 'Major Mono Display', monospace;
+  }
+
+
+    /* border-bottom: 5px solid #000;    abandont the underline
+    padding-bottom: 3px;
+    border-bottom-width: 8px;
+    width: 25%; */
+    
+}
+
+/* 
+hr{
+    position: relative; 
+            top: 20px; 
+            border: none; 
+            height: 12px; 
+            background: grey; 
+            margin-bottom: 80px; */
+            
+            
+}
+
+
+h1{
+    text-align: center;
+}
+
+#logo{
+    display: block;
+    margin: 0 auto;
+    width: 210px;
+    height: 210px;
+}
+
+ /* div.wpb_map_wraper {
+    border: solid;
+   
+    width = 900px ;
+    height = 360px;
+
+    margin: 0 110px;
+}  */
+
+
+/* ------------------------------------text css-------------------------------*/
+
+.text-article{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+
+    
+}
+
+h5{
+    font-size: 2em;
+
+}
+
+#first-table-data{
+    padding-right: 5em;
+}
+
+#historyHeader{
+    display: block;
+    border-bottom:solid ;
+    width: 739px;
+    font-family: 'Lato', sans-serif;
+    word-spacing: 5px;
+    
+    /* font-family: 'Raleway', sans-serif; */
+}
+.vacancy{
+    font-family: 'Lato', sans-serif;
+}
+
+.first-avenue{
+    width: 100%;
+}
+
+
+
+
+
+
+.decoHr{
+   
+    
+}
+
+
+
+
+
+
+
